@@ -1,0 +1,2 @@
+formatar o primas: npx prisma format
+criar o migration: npx prisma migrate dev --name init_db

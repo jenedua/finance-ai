@@ -4,3 +4,6 @@ usar pretier com tailwind para formatar as class: npm install -D prettier pretti
 instalar shadcn:npx shadcn@2.1.3 init
 biblioteca clerk , é uma servico de authentication :npm install @clerk/nextjs@5.7.5
 trocar o themes do clerk: npm install @clerk/themes@2.1.37
+git hooks: São comando que agente execute antes de fazer o commit, e para isso vamos utiliza husky:npm install -D husky@9.1.7
+tambem installar o lint-stage: npm install -D lint-stage@12.3.2
+-agora para rodar: npx husky init
